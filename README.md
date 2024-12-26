@@ -1,6 +1,6 @@
-# Nguyễn Trung DŨng - Web Developer
+# Dung Nguyen - Web Developer
 
-Hello everyone! I'm Nguyễn Trung DŨng, a passionate Web Developer with extensive experience in building high-quality full-stack web applications. I specialize in both **Frontend** and **Backend**, leveraging modern technologies to deliver efficient and scalable solutions.
+Hello everyone! I'm Dung Nguyen, a passionate Web Developer with extensive experience in building high-quality full-stack web applications. I specialize in both **Frontend** and **Backend**, leveraging modern technologies to deliver efficient and scalable solutions.
 
 ---
 
